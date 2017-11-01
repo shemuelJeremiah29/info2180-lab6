@@ -1,0 +1,51 @@
+h1 {  
+    
+    background: "#"; 
+    padding: 2em; 
+    text-align: center; 
+    font-style: oblique;  
+    
+   
+} 
+
+#search{ 
+ font: 12px arial, sans-serif; 
+ border: solid black 1px; 
+ padding: 2px;
+    
+    
+}   
+
+#heading{ 
+    border: 2em; 
+    background: rebeccapurple; 
+    border: solid black 2px;  
+    padding: 1px; 
+   
+    
+}
+
+name{ 
+    font: bold, 10px georgia, serif;     
+    
+}  
+
+
+p{  
+    background: gray; 
+    color:white;
+    font:bold 13px helvetica, sans-serif;
+    padding: 1em;    
+} 
+
+.button{  
+font-size: 11px;    
+ color: darkturquoise;
+    
+} 
+
+html{ 
+     
+    position: fixed; 
+    box-shadow: 3px grey;
+}
