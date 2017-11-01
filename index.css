@@ -31,7 +31,7 @@ name{
 }  
 
 
-p{  
+.cool{  
     background: gray; 
     color:white;
     font:bold 13px helvetica, sans-serif;
@@ -48,4 +48,10 @@ html{
      
     position: fixed; 
     box-shadow: 3px grey;
+} 
+
+#result{ 
+    border: solid gray 2px;
+    
+    
 }
